@@ -7,9 +7,6 @@
     <groupId>at.fhv</groupId>
     <artifactId>cnc-event-pipeline</artifactId>
     <name>CNC Event Processing Pipeline</name>
-    <description>
-        Event-driven CNC data ingestion and analytics pipeline using OPC UA, MQTT, Kafka and TimescaleDB.
-    </description>
 
     <version>1.0-SNAPSHOT</version>
 
